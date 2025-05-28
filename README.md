@@ -1,8 +1,4 @@
-Here’s a clean, professional `README.md` template for your **`waf-bypasser`** project on GitHub:
 
----
-
-````markdown
 # waf-bypasser
 
 **waf-bypasser** is a simple Bash-based automation tool that helps bypass basic Web Application Firewalls (WAFs) by generating a range of obfuscated payloads and testing them against a target URL.
