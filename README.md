@@ -46,7 +46,7 @@ Example:
 
 This tool is intended for **educational and authorized testing** purposes **only**. Do not use it on systems you do not own or have explicit permission to test.
 
-## 🛠 TODO
+##  TODO
 
 * Add support for POST requests
 * Add proxy/Tor routing
