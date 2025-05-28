@@ -64,7 +64,4 @@ This tool is intended for **educational and authorized testing** purposes **only
 
 ```
 
----
 
-Let me know if you'd like this customized further—like inserting actual examples of your payloads or a project logo!
-```
